@@ -15,7 +15,7 @@
               <article class="message is-success">
                 <div class="message-body">
                   <p>Dimensions aims to be an event where students are allowed to express themselves and all their talents that vary from all ends of the spectrum.  </p>
-                  <p>"As we close curtains on Dimensions this year, we hope that we've provided each and every student with a platform to showcase their versatile skills.</p>
+                  <p>As we close curtains on Dimensions this year, we hope that we've provided each and every student with a platform to showcase their versatile skills.</p>
                   <p class="content">Congratulations to all the participants and winners for indulging in this experience, we hope you enjoyed it!</p>
                   <i>-Anannya Rajesh, Student Council President.</i>
                 </div>
