@@ -25,10 +25,13 @@
       <div class="control">
         <div class="select">
           <select v-model="house" required>
-            <option>Poseidon</option>
-            <option>Phoenix</option>
-            <option>Hercules</option>
             <option>Ceasar</option>
+            <option>Hercules</option>
+            <option>Phoenix</option>
+            <option>Poseidon</option>
+            
+            
+            
           </select>
         </div>
       </div>
