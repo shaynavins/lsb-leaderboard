@@ -27,8 +27,9 @@
           <select v-model="house" required>
             <option>Ceasar</option>
             <option>Hercules</option>
+             <option>Poseidon</option>
+
             <option>Phoenix</option>
-            <option>Poseidon</option>
             
             
             
